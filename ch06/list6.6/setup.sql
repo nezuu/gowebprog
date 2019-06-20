@@ -1,8 +1,7 @@
 drop table posts;
 
-create table posts
-(
-  id serial primary key,
+create table posts (
+  id      serial primary key,
   content text,
-  author varchar(255)
+  author  varchar(255)
 );
