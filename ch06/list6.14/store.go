@@ -5,6 +5,7 @@
    （一番最初は ERRORが表示されるが、そのままでOK)
  3. go run store.go
 */
+// 難しい
 
 package main
 
